@@ -1,0 +1,11 @@
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\bin\Debug\MediaAritmeticaSimples.exe.config
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\bin\Debug\MediaAritmeticaSimples.exe
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\bin\Debug\MediaAritmeticaSimples.pdb
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.csproj.AssemblyReference.cache
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.Form1.resources
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.Properties.Resources.resources
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.csproj.GenerateResource.cache
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.csproj.CoreCompileInputs.cache
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.exe
+C:\Curso_c#\MediaAritmeticaSimples\MediaAritmeticaSimples\obj\Debug\MediaAritmeticaSimples.pdb
